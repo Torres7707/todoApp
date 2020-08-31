@@ -1,0 +1,9 @@
+{
+    "env": {
+        "MONGO_USER": "wangdong",
+        "MONGO_PASSWORD": "wangdong",
+        "MONGO_DB": "todos",
+        "secretOrPrivateKey": "salt"
+    }
+
+}
